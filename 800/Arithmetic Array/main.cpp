@@ -7,6 +7,8 @@
     2. If the sum is equal to n, then print 0
     3. If the sum is less than n, then print 1
     4. If the sum is greater than n, then print the difference between the sum and n
+
+    Time Complexity: O(n)
 */
 #include <bits/stdc++.h>
 using namespace std;
