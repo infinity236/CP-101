@@ -22,10 +22,8 @@ Yes case: FFGZZZY, BA, AFFFCC, YYYYY
 
 void solve()
 {
-    int n;
-    cin >> n;
-    string s;
-    cin >> s;
+    int n; cin >> n;
+    string s; cin >> s;
     bool check = true;
     for (int i = 0; i < n; i++)
     {
