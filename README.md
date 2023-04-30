@@ -9,3 +9,4 @@ Level: 800
 7. [Ezzat and Two Subsequences] https://codeforces.com/problemset/problem/1557/A
 8. [Find The Array] https://codeforces.com/problemset/problem/1550/A
 9. [Stone Game] https://codeforces.com/problemset/problem/1538/A
+10. [Cherry] https://codeforces.com/problemset/problem/1554/A
